@@ -13,7 +13,7 @@ MIDDLEWARE = [
 ]
 
 CORS_ALLOWED_ORIGINS = [
-    "https://your-frontend.vercel.app",
+    "https://deploy-git-main-dakshhhhh16s-projects.vercel.app/",
 ]
 
 # ...other Django settings (database, templates, etc.)...
